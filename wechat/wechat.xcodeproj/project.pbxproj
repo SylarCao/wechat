@@ -317,6 +317,7 @@
 				2C4BDE521EBC550700D6D684 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
